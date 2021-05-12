@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="230">
 
-currently a **Cyber Security Software Engineer** in [Custodio Technologies Pte Ltd](https://www.custodiotech.com.sg). I am a **Self-taught** full stack software engineer who switched career since 2018.
+I am currently a **Cyber Security Software Engineer** in [Custodio Technologies Pte Ltd](https://www.custodiotech.com.sg). I am a **Self-taught** full stack software engineer who switched career since 2018.
 
 I develop **enterprise grade** cyber security solution by day 🌞, **full stack** web application developer by night 🌙 
 
@@ -13,15 +13,14 @@ I am an advocate of **clean**, **testable** and **maintainable** code with excel
 
 I was mentioned in an [article](https://www.edb.gov.sg/en/news-and-events/insights/talent/how-to-attract-and-retain-tech-talent-with-the-right-culture.html) on how my current company **attract and retain tech talents**
 
+<a href="https://github.com/stewart86">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/?username=stewart86&count_private=true&theme=tokyonight&showicons=true&hide=contribs,prs" />
+</a>
+<a href="https://github.com/stewartwong">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/?username=stewartwong&count_private=true&theme=tokyonight&showicons=true&hide=contribs,prs" />
+</a>
 
-##### Personal account
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=stewart86&count_private=true&theme=tokyonight&showicons=true)]()
-
-##### Work account
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=stewartwong&count_private=true&theme=tokyonight&showicons=true)]()
-
+                                                                                                        
 ## 💻 Technologies and Skills
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -48,7 +47,7 @@ I was mentioned in an [article](https://www.edb.gov.sg/en/news-and-events/insigh
 
 ##### Personal account
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stewart86&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stewart86&langs_count=5&theme=tokyonight&layout=compact)]()
 </div>
 
 ```python
