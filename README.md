@@ -1,9 +1,6 @@
-### Hi there 👋
 
-<!--
-**Stewart86/Stewart86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Hi, I am Wong Si Wei (Stewart)
+### Hi, I am Wong Si Wei (Stewart) 👋
 
 #### Overview
 
