@@ -18,9 +18,11 @@ leadership through example, **code review**, **pair programming**, knowledge tra
 
 Mentioned in an [article](https://www.edb.gov.sg/en/news-and-events/insights/talent/how-to-attract-and-retain-tech-talent-with-the-right-culture.html) on how my current company **attract and retain tech talents**
 
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=stewart86&count_private=true&theme=tokyonight&showicons=true)]()
 
 ## Technologies and Skills
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stewart86&langs_count=5&theme=tokyonight)]()
 
 **Operating Systems**: Windows, Mac OS, Linux (Ubuntu, Kali Linux,Raspbian)
 
@@ -37,7 +39,6 @@ Mentioned in an [article](https://www.edb.gov.sg/en/news-and-events/insights/tal
 **Work Flows:** Confluence, Jira, GitHub Action, GitHub Projects, Trello, TDD
 
 **IDE / Text Editors:** Visual Studio 2019, Visual Studio Code, Vim
-
 
 
 ## Projects
