@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="230">
 
-I am currently a **Cyber Security Software Engineer** in [Custodio Technologies Pte Ltd](https://www.custodiotech.com.sg). I am a **Self-taught** full stack software engineer who switched career since 2018.
+I am currently a **Python Software Engineer** in [Merquri Pte Ltd](https://www.merquri.io). I am a **Self-taught** full stack software engineer who switched career since 2018.
 
 I develop **enterprise grade** cyber security solution by day 🌞, **full stack** web application developer by night 🌙 
 
@@ -15,9 +15,6 @@ I was mentioned in an [article](https://www.edb.gov.sg/en/news-and-events/insigh
 
 <a href="https://github.com/stewart86">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/?username=stewart86&count_private=true&theme=tokyonight&showicons=true&hide=contribs,prs" />
-</a>
-<a href="https://github.com/stewartwong">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/?username=stewartwong&count_private=true&theme=tokyonight&showicons=true&hide=contribs,prs" />
 </a>
 
                                                                                                         
