@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="230">
 
-I am currently a **CTO** for [BlockChef](https://www.blockchef.com) and as a part-time tech adviser for Ample Transfers Pte Ltd. I am a **Self-taught** full stack software engineer who switched career since 2018.
+I am currently a **CTO** for [BlockChef](https://www.blockchef.com) and a part-time tech advisor for Ample Transfers Pte Ltd. I am a **Self-taught** full stack software engineer who switched career since 2018.
 
 A technology geek, full time web developer, part time technology tinkerer.
 
