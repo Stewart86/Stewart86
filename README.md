@@ -3,15 +3,9 @@
   
 # Hi, I am Wong Si Wei (Stewart) 👋 🇸🇬
 
-<img align='right' src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="230">
-
-I am currently a **CTO** for [BlockChef](https://www.blockchef.com) and a part-time tech advisor for Ample Transfers Pte Ltd. I am a **Self-taught** full stack software engineer who switched career since 2018.
-
 A technology geek, full time web developer, part time tinkerer.
 
 Highly proficient with serverless technology, Linux operating system and cloud infrastructure.
-
-I am an advocate of **clean**, **testable** and **maintainable** code with excellence knowledge in **SOLID** principle and various **design patterns** implemented in **C#** and **Python**. I lead through example, **code review**, **pair programming**, knowledge transfer session.
 
 I was mentioned in an [article](https://www.edb.gov.sg/en/news-and-events/insights/talent/how-to-attract-and-retain-tech-talent-with-the-right-culture.html) on how my current company **attract and retain tech talents**
 
@@ -35,16 +29,12 @@ I was mentioned in an [article](https://www.edb.gov.sg/en/news-and-events/insigh
 ### Programming languages
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-CMD-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 
 ### Databases
 
@@ -56,10 +46,6 @@ I was mentioned in an [article](https://www.edb.gov.sg/en/news-and-events/insigh
 ### Clouds
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc)
-
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stewart86&langs_count=5&theme=tokyonight&layout=compact)]()
 </div>
