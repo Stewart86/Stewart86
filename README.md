@@ -16,12 +16,6 @@ I was mentioned in an [article](https://www.edb.gov.sg/en/news-and-events/insigh
                                                                                                         
 ## 💻 Technologies and Skills
 
-### Operating Systems
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-
 ### Editor of choice
 
 ![](https://img.shields.io/badge/Editor-NEOVIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
@@ -42,10 +36,6 @@ I was mentioned in an [article](https://www.edb.gov.sg/en/news-and-events/insigh
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=2bbc8a)
-
-### Clouds
-
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stewart86&langs_count=5&theme=tokyonight&layout=compact)]()
 </div>
